@@ -161,7 +161,7 @@
     "description": "Prepare for medical exams",
     "playStoreUrl": "",
     "categories": ["educational-resources"],
-    "subcategories": { "educational-resources": ["Questions bank"] }
+    "subcategories": { "educational-resources": ["Question bank"] }
   },
   {
     "id": "resus-council",
