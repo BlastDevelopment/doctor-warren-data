@@ -1,0 +1,195 @@
+  [{
+    "id": "accurx",
+    "createTime": "2025-06-23T17:54:39.201184Z",
+    "updateTime": "2025-06-25T12:30:43.278153Z",
+    "appStoreUrl": "https://apps.apple.com/gb/app/accurx/id604873500",
+    "isEcosystem": false,
+    "webUrl": "https://www.accurx.com/app",
+    "title": "Accurx",
+    "playStoreUrl":
+      "https://play.google.com/store/apps/details?id=com.hermes.induction&hl=en_GB&gl=US&pli=1",
+    "appType": "all",
+    "description": "Use Accurx for hospital extension numbers",
+    "categories": ["clinical-aids"],
+    "subcategories": { "clinical-aids": ["Reference Guides"] }
+  },
+  {
+    "id": "bnf",
+    "createTime": "2025-06-23T19:11:33.225155Z",
+    "updateTime": "2025-06-25T12:27:49.573122Z",
+    "title": "BNF",
+    "description": "Use the BNF as a reference when prescribing",
+    "appStoreUrl": "https://apps.apple.com/gb/app/bnf-bnfc/id1045514038",
+    "appType": "all",
+    "isEcosystem": false,
+    "webUrl": "https://bnf.nice.org.uk/",
+    "playStoreUrl":
+      "https://play.google.com/store/apps/details?id=com.pharmpress.bnf&hl=en_GB",
+    "categories": ["clinical-aids"],
+    "subcategories": { "clinical-aids": ["Prescribing", "Reference Guides"] }
+  },
+  {
+    "id": "doctors-net",
+    "createTime": "2025-06-23T18:13:07.829776Z",
+    "updateTime": "2025-06-25T12:30:09.173959Z",
+    "webUrl": "https://www.doctors.net.uk/",
+    "title": "Doctors.net.uk",
+    "appType": "all",
+    "appStoreUrl": "http://apps.apple.com/us/app/my-doctors-net-uk/id1446550923",
+    "isEcosystem": false,
+    "description": "Online community for doctors",
+    "playStoreUrl":
+      "https://play.google.com/store/apps/details?id=com.m3europe.launcherapp",
+    "categories": ["professional-and-portfolio"],
+    "subcategories": { "professional-and-portfolio": ["Professional Communities", "Networking"] }
+  },
+  {
+    "id": "heidi-health",
+    "createTime": "2025-11-08T12:00:00.000000Z",
+    "updateTime": "2025-11-08T12:00:00.000000Z",
+    "title": "Heidi Health",
+    "isEcosystem": false,
+    "playStoreUrl":
+      "https://play.google.com/store/apps/details?id=com.heidihealth.scribe&hl=en_GB",
+    "webUrl": "https://www.heidihealth.com/en-gb",
+    "appStoreUrl":
+      "https://apps.apple.com/gb/app/heidi-ai-medical-scribe/id6504471106",
+    "appType": "all",
+    "description":
+      "AI-powered medical scribe for clinicians to automate documentation and focus on patient care.",
+    "categories": ["clinical-aids", "ai-tools"],
+    "subcategories": { "clinical-aids": ["Reference Guides"], "ai-tools": ["Documentation", "Medical Scribing"] }
+  },
+  {
+    "id": "horus-eportfolio",
+    "createTime": "2025-06-25T12:00:00.000000Z",
+    "updateTime": "2025-06-25T12:00:00.000000Z",
+    "title": "Horus ePortfolio",
+    "description": "ePortfolio for Foundation Doctors in the UK.",
+    "webUrl": "https://horus.hee.nhs.uk/",
+    "playStoreUrl": "",
+    "appStoreUrl": "",
+    "isEcosystem": false,
+    "appType": "webOnly",
+    "categories": ["professional-and-portfolio"],
+    "subcategories": { "professional-and-portfolio": ["ePortfolio"] }
+  },
+  {
+    "id": "iarrest",
+    "createTime": "2025-06-23T19:16:05.319603Z",
+    "updateTime": "2025-06-25T12:27:59.556918Z",
+    "isEcosystem": false,
+    "playStoreUrl":
+      "https://play.google.com/store/apps/details?id=org.iarrest.iarrest&hl=en_GB",
+    "webUrl": "https://www.iarrest.org/",
+    "appStoreUrl": "https://apps.apple.com/gb/app/iarrest/id1280974002",
+    "description": "Use during cardiac arrests",
+    "title": "iArrest",
+    "appType": "mobileOnly",
+    "categories": ["clinical-aids"],
+    "subcategories": { "clinical-aids": ["Emergency Care"] }
+  },
+  {
+    "id": "mdcalc",
+    "createTime": "2025-06-23T18:03:02.433779Z",
+    "updateTime": "2025-06-25T17:40:05.201439Z",
+    "appType": "all",
+    "isEcosystem": false,
+    "appStoreUrl":
+      "https://apps.apple.com/gb/app/mdcalc-medical-calculator/id1001640662",
+    "webUrl": "https://www.mdcalc.com/",
+    "playStoreUrl":
+      "https://play.google.com/store/apps/details?id=com.mdaware.mdcalc&hl=en",
+    "title": "MDCalc",
+    "description": "Use for scoring and calculators",
+    "categories": ["clinical-aids"],
+    "subcategories": { "clinical-aids": ["Scoring & Calculators"] }
+  },
+  {
+    "id": "nice",
+    "createTime": "2025-06-25T18:17:01.159160Z",
+    "updateTime": "2025-06-25T18:17:01.159160Z",
+    "appStoreUrl": "",
+    "webUrl": "https://www.nice.org.uk/",
+    "appType": "webOnly",
+    "playStoreUrl": "",
+    "isEcosystem": false,
+    "title": "NICE Guidance",
+    "description": "Access NICE guidance and quality standards",
+    "categories": ["clinical-aids"],
+    "subcategories": { "clinical-aids": ["Reference Guides"] }
+  },
+  {
+    "id": "nhs-esr",
+    "createTime": "2025-06-25T12:00:00.000000Z",
+    "updateTime": "2025-06-25T12:00:00.000000Z",
+    "title": "NHS ESR",
+    "description": "View and manage your payslips.",
+    "webUrl": "https://my.esr.nhs.uk/",
+    "appStoreUrl": "https://apps.apple.com/gb/app/myesr/id1200762096",
+    "isEcosystem": false,
+    "appType": "all",
+    "playStoreUrl":
+      "https://play.google.com/store/apps/details?id=com.app.myesre&hl=en_GB",
+    "categories": ["rotas-and-pay"],
+    "subcategories": { "rotas-and-pay": ["Payroll", "HR Systems"] }
+  },
+  {
+    "id": "openevidence",
+    "createTime": "2025-06-25T18:30:00.000000Z",
+    "updateTime": "2025-06-25T18:30:00.000000Z",
+    "title": "OpenEvidence",
+    "description": "Search evidence summaries and systematic reviews.",
+    "webUrl": "https://www.openevidence.com/",
+    "playStoreUrl":
+      "https://play.google.com/store/apps/details?id=com.openevidence",
+    "appStoreUrl": "https://apps.apple.com/us/app/openevidence/id6612007783",
+    "isEcosystem": false,
+    "appType": "all",
+    "categories": ["research"],
+    "subcategories": { "research": ["Evidence Reviews", "Literature Search"] }
+  },
+  {
+    "id": "passmedicine",
+    "createTime": "2025-06-23T18:07:07.229776Z",
+    "updateTime": "2025-06-25T12:31:00.373959Z",
+    "webUrl": "https://www.passmedicine.com/",
+    "title": "PassMedicine",
+    "appType": "webOnly",
+    "appStoreUrl": "",
+    "isEcosystem": false,
+    "description": "Prepare for medical exams",
+    "playStoreUrl": "",
+    "categories": ["educational-resources"],
+    "subcategories": { "educational-resources": ["Exam Preparation", "Study Materials"] }
+  },
+  {
+    "id": "resus-council",
+    "createTime": "2025-06-25T18:24:53.556495Z",
+    "updateTime": "2025-06-25T18:24:53.556495Z",
+    "webUrl": "https://www.resus.org.uk/",
+    "title": "Resus Council",
+    "appStoreUrl": "",
+    "isEcosystem": false,
+    "appType": "webOnly",
+    "playStoreUrl": "",
+    "description": "Information on resuscitation techniques",
+    "categories": ["clinical-aids"],
+    "subcategories": { "clinical-aids": ["Emergency Care"] }
+  },
+  {
+    "id": "toxbase",
+    "createTime": "2025-06-24T11:58:12.935849Z",
+    "updateTime": "2025-06-25T12:30:47.257160Z",
+    "title": "Toxbase",
+    "isEcosystem": false,
+    "playStoreUrl":
+      "https://play.google.com/store/apps/details?id=uk.co.issolutions.toxbasemobileandroid.activity&hl=en_GB",
+    "webUrl": "https://www.toxbase.org/",
+    "appStoreUrl": "https://apps.apple.com/gb/app/toxbase/id519248940",
+    "appType": "all",
+    "description": "Respository of toxins and management of overdoses",
+    "categories": ["clinical-aids"],
+    "subcategories": { "clinical-aids": ["Emergency Care", "Reference Guides"] }
+  }
+]
