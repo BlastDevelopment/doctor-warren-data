@@ -26,7 +26,7 @@
     "playStoreUrl":
       "https://play.google.com/store/apps/details?id=com.pharmpress.bnf&hl=en_GB",
     "categories": ["clinical-aids"],
-    "subcategories": { "clinical-aids": ["Prescribing", "Reference Guides"] }
+    "subcategories": { "clinical-aids": ["Prescribing"] }
   },
   {
     "id": "doctors-net",
@@ -41,7 +41,7 @@
     "playStoreUrl":
       "https://play.google.com/store/apps/details?id=com.m3europe.launcherapp",
     "categories": ["professional-and-portfolio"],
-    "subcategories": { "professional-and-portfolio": ["Professional Communities", "Networking"] }
+    "subcategories": { "professional-and-portfolio": ["Professional Communities"] }
   },
   {
     "id": "heidi-health",
@@ -58,7 +58,7 @@
     "description":
       "AI-powered medical scribe for clinicians to automate documentation and focus on patient care.",
     "categories": ["clinical-aids", "ai-tools"],
-    "subcategories": { "clinical-aids": ["Reference Guides"] }
+    "subcategories": { "cai-tools": ["AI scribe"] }
   },
   {
     "id": "horus-eportfolio",
@@ -72,7 +72,7 @@
     "isEcosystem": false,
     "appType": "webOnly",
     "categories": ["professional-and-portfolio"],
-    "subcategories": { "professional-and-portfolio": ["ePortfolio"] }
+    "subcategories": { "professional-and-portfolio": ["ePortfolios"] }
   },
   {
     "id": "iarrest",
@@ -132,7 +132,7 @@
     "playStoreUrl":
       "https://play.google.com/store/apps/details?id=com.app.myesre&hl=en_GB",
     "categories": ["rotas-and-pay"],
-    "subcategories": { "rotas-and-pay": ["Payroll", "HR Systems"] }
+    "subcategories": { "rotas-and-pay": ["Payroll"] }
   },
   {
     "id": "openevidence",
@@ -146,8 +146,8 @@
     "appStoreUrl": "https://apps.apple.com/us/app/openevidence/id6612007783",
     "isEcosystem": false,
     "appType": "all",
-    "categories": ["research"],
-    "subcategories": { "research": ["Evidence Reviews", "Literature Search"] }
+    "categories": ["research", "ai-tools"],
+    "subcategories": { "research": ["Literature Search"], "ai-tools": ["Literature Search"] }
   },
   {
     "id": "passmedicine",
@@ -161,7 +161,7 @@
     "description": "Prepare for medical exams",
     "playStoreUrl": "",
     "categories": ["educational-resources"],
-    "subcategories": { "educational-resources": ["Exam Preparation", "Study Materials"] }
+    "subcategories": { "educational-resources": ["Questions bank"] }
   },
   {
     "id": "resus-council",
@@ -190,7 +190,7 @@
     "appType": "all",
     "description": "Respository of toxins and management of overdoses",
     "categories": ["clinical-aids"],
-    "subcategories": { "clinical-aids": ["Emergency Care", "Reference Guides"] }
+    "subcategories": { "clinical-aids": ["Reference Guides"] }
   }
 ]
   }
