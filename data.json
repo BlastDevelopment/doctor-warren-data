@@ -58,7 +58,7 @@
     "description":
       "AI-powered medical scribe for clinicians to automate documentation and focus on patient care.",
     "categories": ["clinical-aids", "ai-tools"],
-    "subcategories": { "cai-tools": ["AI scribe"] }
+    "subcategories": { "ai-tools": ["AI scribe"] }
   },
   {
     "id": "horus-eportfolio",
