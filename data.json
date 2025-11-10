@@ -13,6 +13,21 @@
     "categories": ["clinical-aids"],
     "subcategories": { "clinical-aids": ["Reference Guides"] }
   },
+      {
+    "id": "uptodate",
+    "createTime": "2025-06-23T19:11:33.225155Z",
+    "updateTime": "2025-06-25T12:27:49.573122Z",
+    "title": "UpToDate",
+    "description": "UpToDate is an evidence-based clinical decision support platform offering expert-reviewed content and AI-enhanced insights for point-of-care use.",
+    "appStoreUrl": "https://apps.apple.com/us/app/uptodate/id334265345",
+    "appType": "all",
+    "isEcosystem": false,
+    "webUrl": "https://www.uptodate.com/",
+    "playStoreUrl":
+      "https://play.google.com/store/apps/details?id=com.uptodate.android&hl=en",
+    "categories": ["clinical-aids"],
+    "subcategories": { "clinical-aids": ["Prescribing"] }
+  },
   {
     "id": "bnf",
     "createTime": "2025-06-23T19:11:33.225155Z",
