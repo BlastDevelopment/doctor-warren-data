@@ -28,6 +28,18 @@
     "categories": ["clinical-aids"],
     "subcategories": { "clinical-aids": ["Prescribing"] }
   },
+          {
+    "id": "nhs-eportfolio",
+    "createTime": "2025-06-23T19:11:33.225155Z",
+    "updateTime": "2025-06-25T12:27:49.573122Z",
+    "title": "NHS ePortfolio",
+    "description": "NHS ePortfolios is used for recording and managing professional development, providing tools for curriculum building, evidence tracking, and reporting for trainees and educators.",
+    "appType": "webOnly",
+    "isEcosystem": false,
+    "webUrl": "https://www.nhseportfolios.org/",
+    "categories": ["professional-and-portfolio"],
+    "subcategories": { "professional-and-portfolio": ["ePortfolios"] }
+  },
   {
     "id": "bnf",
     "createTime": "2025-06-23T19:11:33.225155Z",
