@@ -205,6 +205,21 @@
     "description": "Respository of toxins and management of overdoses",
     "categories": ["clinical-aids"],
     "subcategories": { "clinical-aids": ["Reference Guides"] }
+  },
+      {
+    "id": "on-exam",
+    "createTime": "2025-06-24T11:58:12.935849Z",
+    "updateTime": "2025-06-25T12:30:47.257160Z",
+    "title": "BMJ OnExam",
+    "isEcosystem": false,
+    "playStoreUrl":
+      "https://play.google.com/store/apps/details?id=com.bmjgroup.onexamination",
+    "webUrl": "https://www.onexamination.com/",
+    "appStoreUrl": "https://apps.apple.com/us/app/bmj-onexam/id544289965",
+    "appType": "all",
+    "description": "BMJ OnExamination is an online platform providing medical exam question banks, daily practice, and performance tracking to support structured revision.",
+    "categories": ["educational-resources"],
+    "subcategories": { "educational-resources": ["Question banks"] }
   }
 ]
   }
