@@ -161,7 +161,21 @@
     "description": "Prepare for medical exams",
     "playStoreUrl": "",
     "categories": ["educational-resources"],
-    "subcategories": { "educational-resources": ["Question bank"] }
+    "subcategories": { "educational-resources": ["Question banks"] }
+  },
+      {
+    "id": "pastest",
+    "createTime": "2025-06-23T18:07:07.229776Z",
+    "updateTime": "2025-06-25T12:31:00.373959Z",
+    "webUrl": "https://www.passmedicine.com/",
+    "title": "Pastest",
+    "appType": "all",
+    "appStoreUrl": "https://apps.apple.com/gb/app/pastest/id1554317254",
+    "isEcosystem": false,
+    "description": "Prepare for medical exams",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.pastest.v3.app&hl=en_GB",
+    "categories": ["educational-resources"],
+    "subcategories": { "educational-resources": ["Question banks"] }
   },
   {
     "id": "resus-council",
