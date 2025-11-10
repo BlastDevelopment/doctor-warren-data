@@ -14,6 +14,18 @@
       "categories": ["clinical-aids"],
       "subcategories": { "clinical-aids": ["Reference Guides"] }
     },
+        {
+      "id": "warren-paces",
+      "createTime": "2025-06-23T17:54:39.201184Z",
+      "updateTime": "2025-06-25T12:30:43.278153Z",
+      "isEcosystem": true,
+      "webUrl": "https://doctorwarren.co.uk/warren-paces",
+      "title": "Warren PACES",
+      "appType": "webOnly",
+      "description": "Dr Whallett's tips and tricks for passing MRCP PACES",
+      "categories": ["educational-resources", "speciality-specific"],
+      "subcategories": { "educational-resources": ["Online resources"], "speciality-specific": ["Medicine"] }
+    },
     {
       "id": "uptodate",
       "createTime": "2025-06-23T19:11:33.225155Z",
