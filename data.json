@@ -26,7 +26,7 @@
       "webUrl": "https://www.uptodate.com/",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.uptodate.android&hl=en",
       "categories": ["clinical-aids"],
-      "subcategories": { "clinical-aids": ["Prescribing"] }
+      "subcategories": { "clinical-aids": ["Reference Guides"] }
     },
     {
       "id": "nhs-eportfolio",
