@@ -173,7 +173,7 @@
     "appType": "webOnly",
     "appStoreUrl": "",
     "isEcosystem": false,
-    "description": "Prepare for medical exams",
+    "description": "PassMedicine is an online platform providing medical exam question banks, performance tracking, and revision tools for exams.",
     "playStoreUrl": "",
     "categories": ["educational-resources"],
     "subcategories": { "educational-resources": ["Question banks"] }
