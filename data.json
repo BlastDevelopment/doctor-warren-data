@@ -38,6 +38,8 @@
       "appType": "mobileOnly",
       "description": "iResus provides offline access the latest algorithms from the Resus Council Guidelines",
       "categories": ["clinical-aids"],
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=cranworth.com.iresus&hl=en_GB",
+      "appStoreUrl": "https://apps.apple.com/gb/app/iresus/id1034079078",
       "subcategories": { "clinical-aids": ["Emergency Care"] }
     },
     {
