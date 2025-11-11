@@ -24,7 +24,10 @@
       "appType": "webOnly",
       "description": "Dr Whallett's tips and tricks for passing MRCP PACES",
       "categories": ["educational-resources", "speciality-specific"],
-      "subcategories": { "educational-resources": ["Online resources"], "speciality-specific": ["Medicine"] }
+      "subcategories": {
+        "educational-resources": ["Online resources"],
+        "speciality-specific": ["Medicine"]
+      }
     },
     {
       "id": "iresus",
