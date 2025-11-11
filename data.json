@@ -27,6 +27,17 @@
       "subcategories": { "educational-resources": ["Online resources"], "speciality-specific": ["Medicine"] }
     },
     {
+      "id": "iresus",
+      "createTime": "2025-06-23T17:54:39.201184Z",
+      "updateTime": "2025-06-25T12:30:43.278153Z",
+      "isEcosystem": false,
+      "title": "iResus",
+      "appType": "mobileOnly",
+      "description": "iResus provides offline access the latest algorithms from the Resus Council Guidelines",
+      "categories": ["clinical-aids"],
+      "subcategories": { "clinical-aids": ["Emergency Care"] }
+    },
+    {
       "id": "pocus-101",
       "createTime": "2025-06-23T17:54:39.201184Z",
       "updateTime": "2025-06-25T12:30:43.278153Z",
