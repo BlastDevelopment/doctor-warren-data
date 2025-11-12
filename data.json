@@ -11,8 +11,14 @@
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.hermes.induction&hl=en_GB&gl=US&pli=1",
       "appType": "all",
       "description": "Use Accurx for hospital extension numbers",
-      "categories": ["clinical-aids"],
-      "subcategories": { "clinical-aids": ["Reference Guides"] }
+      "categories": [
+        "clinical-aids"
+      ],
+      "subcategories": {
+        "clinical-aids": [
+          "Reference Guides"
+        ]
+      }
     },
     {
       "id": "warren-paces",
@@ -23,10 +29,17 @@
       "title": "Warren PACES",
       "appType": "webOnly",
       "description": "Dr Whallett's tips and tricks for passing MRCP PACES",
-      "categories": ["educational-resources", "speciality-specific"],
+      "categories": [
+        "educational-resources",
+        "speciality-specific"
+      ],
       "subcategories": {
-        "educational-resources": ["Online resources"],
-        "speciality-specific": ["Medicine"]
+        "educational-resources": [
+          "Online resources"
+        ],
+        "speciality-specific": [
+          "Medicine"
+        ]
       }
     },
     {
@@ -37,10 +50,16 @@
       "title": "iResus",
       "appType": "mobileOnly",
       "description": "iResus provides offline access the latest algorithms from the Resus Council Guidelines",
-      "categories": ["clinical-aids"],
+      "categories": [
+        "clinical-aids"
+      ],
       "playStoreUrl": "https://play.google.com/store/apps/details?id=cranworth.com.iresus&hl=en_GB",
       "appStoreUrl": "https://apps.apple.com/gb/app/iresus/id1034079078",
-      "subcategories": { "clinical-aids": ["Emergency Care"] }
+      "subcategories": {
+        "clinical-aids": [
+          "Emergency Care"
+        ]
+      }
     },
     {
       "id": "pocus-101",
@@ -52,9 +71,15 @@
       "appStoreUrl": "https://apps.apple.com/us/app/pocus-101/id1578751657",
       "title": "POCUS 101",
       "appType": "all",
-      "description": "POCUS 101 is an educational platform offering step‑by‑step tutorials, courses, and resources to teach point‑of‑care ultrasound (POCUS) to healthcare professionals and students, covering a wide range of organ systems, procedures, and ultrasound techniques.",
-      "categories": ["educational-resources"],
-      "subcategories": { "educational-resources": ["Online resources"] }
+      "description": "POCUS 101 is an educational platform offering stepâbyâstep tutorials, courses, and resources to teach pointâofâcare ultrasound (POCUS) to healthcare professionals and students, covering a wide range of organ systems, procedures, and ultrasound techniques.",
+      "categories": [
+        "educational-resources"
+      ],
+      "subcategories": {
+        "educational-resources": [
+          "Online resources"
+        ]
+      }
     },
     {
       "id": "uptodate",
@@ -67,8 +92,14 @@
       "isEcosystem": false,
       "webUrl": "https://www.uptodate.com/",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.uptodate.android&hl=en",
-      "categories": ["clinical-aids"],
-      "subcategories": { "clinical-aids": ["Reference Guides"] }
+      "categories": [
+        "clinical-aids"
+      ],
+      "subcategories": {
+        "clinical-aids": [
+          "Reference Guides"
+        ]
+      }
     },
     {
       "id": "nhs-eportfolio",
@@ -79,8 +110,14 @@
       "appType": "webOnly",
       "isEcosystem": false,
       "webUrl": "https://www.nhseportfolios.org/",
-      "categories": ["professional-and-portfolio"],
-      "subcategories": { "professional-and-portfolio": ["ePortfolios"] }
+      "categories": [
+        "professional-and-portfolio"
+      ],
+      "subcategories": {
+        "professional-and-portfolio": [
+          "ePortfolios"
+        ]
+      }
     },
     {
       "id": "geeky-medics",
@@ -93,7 +130,9 @@
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.geekymedics.oscerevision",
       "isEcosystem": false,
       "webUrl": "https://geekymedics.com/",
-      "categories": ["medical-students"]
+      "categories": [
+        "medical-students"
+      ]
     },
     {
       "id": "bnf",
@@ -106,8 +145,14 @@
       "isEcosystem": false,
       "webUrl": "https://bnf.nice.org.uk/",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.pharmpress.bnf&hl=en_GB",
-      "categories": ["clinical-aids"],
-      "subcategories": { "clinical-aids": ["Prescribing"] }
+      "categories": [
+        "clinical-aids"
+      ],
+      "subcategories": {
+        "clinical-aids": [
+          "Prescribing"
+        ]
+      }
     },
     {
       "id": "doctors-net",
@@ -120,9 +165,13 @@
       "isEcosystem": false,
       "description": "Online community for doctors",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.m3europe.launcherapp",
-      "categories": ["professional-and-portfolio"],
+      "categories": [
+        "professional-and-portfolio"
+      ],
       "subcategories": {
-        "professional-and-portfolio": ["Professional Communities"]
+        "professional-and-portfolio": [
+          "Professional Communities"
+        ]
       }
     },
     {
@@ -136,8 +185,15 @@
       "appStoreUrl": "https://apps.apple.com/gb/app/heidi-ai-medical-scribe/id6504471106",
       "appType": "all",
       "description": "AI-powered medical scribe for clinicians to automate documentation and focus on patient care.",
-      "categories": ["clinical-aids", "ai-tools"],
-      "subcategories": { "ai-tools": ["AI scribe"] }
+      "categories": [
+        "clinical-aids",
+        "ai-tools"
+      ],
+      "subcategories": {
+        "ai-tools": [
+          "AI scribe"
+        ]
+      }
     },
     {
       "id": "horus-eportfolio",
@@ -148,8 +204,14 @@
       "webUrl": "https://horus.hee.nhs.uk/",
       "isEcosystem": false,
       "appType": "webOnly",
-      "categories": ["professional-and-portfolio"],
-      "subcategories": { "professional-and-portfolio": ["ePortfolios"] }
+      "categories": [
+        "professional-and-portfolio"
+      ],
+      "subcategories": {
+        "professional-and-portfolio": [
+          "ePortfolios"
+        ]
+      }
     },
     {
       "id": "iarrest",
@@ -162,8 +224,14 @@
       "description": "Use during cardiac arrests",
       "title": "iArrest",
       "appType": "mobileOnly",
-      "categories": ["clinical-aids"],
-      "subcategories": { "clinical-aids": ["Emergency Care"] }
+      "categories": [
+        "clinical-aids"
+      ],
+      "subcategories": {
+        "clinical-aids": [
+          "Emergency Care"
+        ]
+      }
     },
     {
       "id": "mdcalc",
@@ -176,8 +244,14 @@
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mdaware.mdcalc&hl=en",
       "title": "MDCalc",
       "description": "Use for scoring and calculators",
-      "categories": ["clinical-aids"],
-      "subcategories": { "clinical-aids": ["Scoring & Calculators"] }
+      "categories": [
+        "clinical-aids"
+      ],
+      "subcategories": {
+        "clinical-aids": [
+          "Scoring & Calculators"
+        ]
+      }
     },
     {
       "id": "nice",
@@ -188,8 +262,14 @@
       "isEcosystem": false,
       "title": "NICE Guidance",
       "description": "Access NICE guidance and quality standards",
-      "categories": ["clinical-aids"],
-      "subcategories": { "clinical-aids": ["Reference Guides"] }
+      "categories": [
+        "clinical-aids"
+      ],
+      "subcategories": {
+        "clinical-aids": [
+          "Reference Guides"
+        ]
+      }
     },
     {
       "id": "nhs-esr",
@@ -202,8 +282,14 @@
       "isEcosystem": false,
       "appType": "all",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.myesre&hl=en_GB",
-      "categories": ["rotas-and-pay"],
-      "subcategories": { "rotas-and-pay": ["Payroll"] }
+      "categories": [
+        "rotas-and-pay"
+      ],
+      "subcategories": {
+        "rotas-and-pay": [
+          "Payroll"
+        ]
+      }
     },
     {
       "id": "openevidence",
@@ -216,10 +302,17 @@
       "appStoreUrl": "https://apps.apple.com/us/app/openevidence/id6612007783",
       "isEcosystem": false,
       "appType": "all",
-      "categories": ["research", "ai-tools"],
+      "categories": [
+        "research",
+        "ai-tools"
+      ],
       "subcategories": {
-        "research": ["Literature Search"],
-        "ai-tools": ["Literature Search"]
+        "research": [
+          "Literature Search"
+        ],
+        "ai-tools": [
+          "Literature Search"
+        ]
       }
     },
     {
@@ -231,8 +324,14 @@
       "appType": "webOnly",
       "isEcosystem": false,
       "description": "PassMedicine is an online platform providing medical exam question banks, performance tracking, and revision tools for exams.",
-      "categories": ["educational-resources"],
-      "subcategories": { "educational-resources": ["Question banks"] }
+      "categories": [
+        "educational-resources"
+      ],
+      "subcategories": {
+        "educational-resources": [
+          "Question banks"
+        ]
+      }
     },
     {
       "id": "pastest",
@@ -245,8 +344,14 @@
       "isEcosystem": false,
       "description": "Pastest is an online medical exam preparation platform offering question banks, past papers, mock clinical exams, and performance analytics for structured revision and exam readiness",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.pastest.v3.app&hl=en_GB",
-      "categories": ["educational-resources"],
-      "subcategories": { "educational-resources": ["Question banks"] }
+      "categories": [
+        "educational-resources"
+      ],
+      "subcategories": {
+        "educational-resources": [
+          "Question banks"
+        ]
+      }
     },
     {
       "id": "resus-council",
@@ -257,8 +362,14 @@
       "isEcosystem": false,
       "appType": "webOnly",
       "description": "Information on resuscitation techniques",
-      "categories": ["clinical-aids"],
-      "subcategories": { "clinical-aids": ["Emergency Care"] }
+      "categories": [
+        "clinical-aids"
+      ],
+      "subcategories": {
+        "clinical-aids": [
+          "Emergency Care"
+        ]
+      }
     },
     {
       "id": "toxbase",
@@ -271,8 +382,14 @@
       "appStoreUrl": "https://apps.apple.com/gb/app/toxbase/id519248940",
       "appType": "all",
       "description": "Respository of toxins and management of overdoses",
-      "categories": ["clinical-aids"],
-      "subcategories": { "clinical-aids": ["Reference Guides"] }
+      "categories": [
+        "clinical-aids"
+      ],
+      "subcategories": {
+        "clinical-aids": [
+          "Reference Guides"
+        ]
+      }
     },
     {
       "id": "on-exam",
@@ -285,8 +402,14 @@
       "appStoreUrl": "https://apps.apple.com/us/app/bmj-onexam/id544289965",
       "appType": "all",
       "description": "BMJ OnExamination is an online platform providing medical exam question banks, daily practice, and performance tracking to support structured revision.",
-      "categories": ["educational-resources"],
-      "subcategories": { "educational-resources": ["Question banks"] }
+      "categories": [
+        "educational-resources"
+      ],
+      "subcategories": {
+        "educational-resources": [
+          "Question banks"
+        ]
+      }
     }
   ]
 }
