@@ -64,14 +64,14 @@
     {
       "id": "pocus-101",
       "createTime": "2025-06-23T17:54:39.201184Z",
-      "updateTime": "2025-06-25T12:30:43.278153Z",
+      "updateTime": "2025-11-12T15:50:00.154Z",
       "isEcosystem": false,
       "webUrl": "https://www.pocus101.com/",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.pocus101.android",
       "appStoreUrl": "https://apps.apple.com/us/app/pocus-101/id1578751657",
       "title": "POCUS 101",
       "appType": "all",
-      "description": "POCUS 101 is an educational platform offering stepÃ¢ÂÂbyÃ¢ÂÂstep tutorials, courses, and resources to teach pointÃ¢ÂÂofÃ¢ÂÂcare ultrasound (POCUS) to healthcare professionals and students, covering a wide range of organ systems, procedures, and ultrasound techniques.",
+      "description": "POCUS 101 is an educational platform offering tutorials, courses, and resources to teach point of care ultrasound (POCUS) to healthcare professionals and students, covering a wide range of organ systems, procedures, and ultrasound techniques.",
       "categories": [
         "educational-resources"
       ],
@@ -504,6 +504,128 @@
       },
       "createTime": "2025-11-12T15:32:02.738Z",
       "updateTime": "2025-11-12T15:32:02.738Z"
+    },
+    {
+      "id": "stay-alive",
+      "title": "Stay Alive",
+      "description": "Stay Alive is a suicide prevention tool offering safety planning, coping strategies, and direct links to crisis support for anyone at risk or concerned about someone else.",
+      "appType": "all",
+      "isEcosystem": false,
+      "webUrl": "https://prevent-suicide.org.uk/stay-alive-app-grassroots-suicide-prevention/",
+      "appStoreUrl": "https://apps.apple.com/us/app/stay-alive/id915458967",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=uk.org.suicideprevention.stayalive",
+      "categories": [
+        "wellbeing"
+      ],
+      "subcategories": {
+        "wellbeing": []
+      },
+      "createTime": "2025-11-12T15:34:18.854Z",
+      "updateTime": "2025-11-12T15:34:18.854Z"
+    },
+    {
+      "id": "bright-sky",
+      "title": "Bright Sky",
+      "description": "Bright Sky offers support and information for anyone experiencing or concerned about domestic abuse",
+      "appType": "mobileOnly",
+      "isEcosystem": false,
+      "webUrl": "",
+      "appStoreUrl": "https://apps.apple.com/gb/app/bright-sky/id1105880511",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.newtonmobile.hestia",
+      "categories": [
+        "wellbeing"
+      ],
+      "subcategories": {
+        "wellbeing": []
+      },
+      "createTime": "2025-11-12T15:35:29.618Z",
+      "updateTime": "2025-11-12T15:35:29.618Z"
+    },
+    {
+      "id": "unmind",
+      "title": "Unmind",
+      "description": "Unmind is a mental health platform providing tools, assessments, and digital programmes to help manage stress, sleep, coping, connection, fulfilment, and nutrition, with free access for NHS staff until 30 June 2026",
+      "appType": "all",
+      "isEcosystem": false,
+      "webUrl": "https://nhs.unmind.com/",
+      "appStoreUrl": "https://apps.apple.com/gb/app/unmind/id1327302257",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.unmind.mobile&hl=en_GB",
+      "categories": [
+        "wellbeing"
+      ],
+      "subcategories": {
+        "wellbeing": []
+      },
+      "createTime": "2025-11-12T15:37:24.833Z",
+      "updateTime": "2025-11-12T15:37:24.833Z"
+    },
+    {
+      "id": "zero-suicide-alliance",
+      "title": "Zero Suicide Alliance",
+      "description": "A UK‑based charity dedicated to suicide prevention by providing free online training to empower individuals and organisations to recognise and support people at risk of suicide.",
+      "appType": "webOnly",
+      "isEcosystem": false,
+      "webUrl": "https://www.zerosuicidealliance.com/",
+      "appStoreUrl": "",
+      "playStoreUrl": "",
+      "categories": [
+        "wellbeing"
+      ],
+      "subcategories": {
+        "wellbeing": []
+      },
+      "createTime": "2025-11-12T15:38:58.269Z",
+      "updateTime": "2025-11-12T15:38:58.269Z"
+    },
+    {
+      "id": "patient-info",
+      "title": "Patient.info",
+      "description": "Patient.info is a provides doctor‑approved, regularly updated advice, tools, and resources to help the public make informed decisions about their health. It has a wide range of patient leaflets.",
+      "appType": "all",
+      "isEcosystem": false,
+      "webUrl": "https://patient.info/",
+      "appStoreUrl": "https://apps.apple.com/us/app/patient-health-info/id6746214038",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=info.patient.android.brkewd&pli=1",
+      "categories": [
+        "clinical-aids",
+        "teaching-and-learning",
+        "educational-resources"
+      ],
+      "subcategories": {
+        "clinical-aids": [],
+        "teaching-and-learning": [
+          "Patient education"
+        ],
+        "educational-resources": [
+          "Online resources"
+        ]
+      },
+      "createTime": "2025-11-12T15:42:18.604Z",
+      "updateTime": "2025-11-12T15:42:18.604Z"
+    },
+    {
+      "id": "diappbetes",
+      "title": "DiAppBetes",
+      "description": "DiAppBetes is a free app for healthcare professionals providing up-to-date, hospital-focused guidance on managing patients with diabetes across a range of clinical scenarios.",
+      "appType": "webOnly",
+      "isEcosystem": false,
+      "webUrl": "https://viewer.microguide.global/UHSFT/DIAPPBETES#content,208e07d1-dd7e-4917-8ddf-b676bb8a49d3",
+      "appStoreUrl": "",
+      "playStoreUrl": "",
+      "categories": [
+        "clinical-aids",
+        "speciality-specific"
+      ],
+      "subcategories": {
+        "clinical-aids": [
+          "Reference Guides"
+        ],
+        "speciality-specific": [
+          "Diabetes & Endocrinology"
+        ]
+      },
+      "createTime": "2025-11-12T15:46:22.252Z",
+      "updateTime": "2025-11-12T15:46:22.252Z"
     }
   ]
 }
