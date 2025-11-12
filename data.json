@@ -428,6 +428,24 @@
       },
       "createTime": "2025-11-12T14:59:20.778Z",
       "updateTime": "2025-11-12T14:59:20.778Z"
+    },
+    {
+      "id": "bma-counselling",
+      "title": "BMA Counselling",
+      "description": "The British Medical Association provides a free, confidential 24/7 counselling and peer support service for , offering professional and peer-led emotional support.",
+      "appType": "webOnly",
+      "isEcosystem": false,
+      "webUrl": "https://www.bma.org.uk/advice-and-support/your-wellbeing/wellbeing-support-services/counselling-and-peer-support-services",
+      "appStoreUrl": "",
+      "playStoreUrl": "",
+      "categories": [
+        "wellbeing"
+      ],
+      "subcategories": {
+        "wellbeing": []
+      },
+      "createTime": "2025-11-12T15:02:28.781Z",
+      "updateTime": "2025-11-12T15:02:28.781Z"
     }
   ]
 }
