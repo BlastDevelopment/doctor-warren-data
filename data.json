@@ -71,7 +71,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/pocus-101/id1578751657",
       "title": "POCUS 101",
       "appType": "all",
-      "description": "POCUS 101 is an educational platform offering stepâbyâstep tutorials, courses, and resources to teach pointâofâcare ultrasound (POCUS) to healthcare professionals and students, covering a wide range of organ systems, procedures, and ultrasound techniques.",
+      "description": "POCUS 101 is an educational platform offering stepÃ¢ÂÂbyÃ¢ÂÂstep tutorials, courses, and resources to teach pointÃ¢ÂÂofÃ¢ÂÂcare ultrasound (POCUS) to healthcare professionals and students, covering a wide range of organ systems, procedures, and ultrasound techniques.",
       "categories": [
         "educational-resources"
       ],
@@ -446,6 +446,64 @@
       },
       "createTime": "2025-11-12T15:02:28.781Z",
       "updateTime": "2025-11-12T15:02:28.781Z"
+    },
+    {
+      "id": "almost-a-doctor",
+      "title": "AlmostADoctor",
+      "description": "Almostadoctor is an educational platform offering free medical learning resources, articles, and study materials.",
+      "appType": "all",
+      "isEcosystem": false,
+      "webUrl": "https://almostadoctor.co.uk/",
+      "appStoreUrl": "https://apps.apple.com/au/app/almostadoctor/id1501244932",
+      "playStoreUrl": "",
+      "categories": [
+        "medical-students"
+      ],
+      "subcategories": {
+        "medical-students": []
+      },
+      "createTime": "2025-11-12T15:27:22.969Z",
+      "updateTime": "2025-11-12T15:27:22.969Z"
+    },
+    {
+      "id": "ibcc",
+      "title": "Internet Book of Critical Care (IBCC)",
+      "description": "The Internet Book of Critical Care (IBCC) is a free, continually updated online textbook offering practical, evidence-based resources on emergency and critical care medicine.",
+      "appType": "webOnly",
+      "isEcosystem": false,
+      "webUrl": "https://emcrit.org/ibcc/toc/",
+      "appStoreUrl": "",
+      "playStoreUrl": "",
+      "categories": [
+        "speciality-specific"
+      ],
+      "subcategories": {
+        "speciality-specific": [
+          "Critical care"
+        ]
+      },
+      "createTime": "2025-11-12T15:29:04.583Z",
+      "updateTime": "2025-11-12T15:29:04.583Z"
+    },
+    {
+      "id": "litfl",
+      "title": "Life in the Fast Lane (LITFL)",
+      "description": "An online educational platform offering point-of-care content, clinical cases, podcasts and rapid-reference libraries in emergency and critical care medicine. ",
+      "appType": "webOnly",
+      "isEcosystem": false,
+      "webUrl": "https://litfl.com/",
+      "appStoreUrl": "",
+      "playStoreUrl": "",
+      "categories": [
+        "educational-resources"
+      ],
+      "subcategories": {
+        "educational-resources": [
+          "Online resources"
+        ]
+      },
+      "createTime": "2025-11-12T15:32:02.738Z",
+      "updateTime": "2025-11-12T15:32:02.738Z"
     }
   ]
 }
