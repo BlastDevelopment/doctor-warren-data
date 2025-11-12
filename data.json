@@ -410,6 +410,24 @@
           "Question banks"
         ]
       }
+    },
+    {
+      "id": "practitioner-health",
+      "title": "Practitioner Health",
+      "description": "Practitioner Health is a free, confidential NHS mental health and addiction service",
+      "appType": "webOnly",
+      "isEcosystem": false,
+      "webUrl": "https://www.practitionerhealth.nhs.uk/",
+      "appStoreUrl": "",
+      "playStoreUrl": "",
+      "categories": [
+        "wellbeing"
+      ],
+      "subcategories": {
+        "wellbeing": []
+      },
+      "createTime": "2025-11-12T14:59:20.778Z",
+      "updateTime": "2025-11-12T14:59:20.778Z"
     }
   ]
 }
