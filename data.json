@@ -562,7 +562,7 @@
     {
       "id": "zero-suicide-alliance",
       "title": "Zero Suicide Alliance",
-      "description": "A UKâbased charity dedicated to suicide prevention by providing free online training to empower individuals and organisations to recognise and support people at risk of suicide.",
+      "description": "A UKÃ¢ÂÂbased charity dedicated to suicide prevention by providing free online training to empower individuals and organisations to recognise and support people at risk of suicide.",
       "appType": "webOnly",
       "isEcosystem": false,
       "webUrl": "https://www.zerosuicidealliance.com/",
@@ -580,7 +580,7 @@
     {
       "id": "patient-info",
       "title": "Patient.info",
-      "description": "Patient.info is a provides doctorâapproved, regularly updated advice, tools, and resources to help the public make informed decisions about their health. It has a wide range of patient leaflets.",
+      "description": "Patient.info is a provides doctorÃ¢ÂÂapproved, regularly updated advice, tools, and resources to help the public make informed decisions about their health. It has a wide range of patient leaflets.",
       "appType": "all",
       "isEcosystem": false,
       "webUrl": "https://patient.info/",
@@ -646,6 +646,60 @@
       },
       "createTime": "2025-11-13T10:30:17.179Z",
       "updateTime": "2025-11-13T10:30:17.179Z"
+    },
+    {
+      "id": "ortho-sho",
+      "title": "OrthoSHO",
+      "description": "An educational resource to support resident doctors managing trauma and orthopaedic patients, offering practical guidance, learning materials, and advice on when to seek senior help.",
+      "appType": "webOnly",
+      "isEcosystem": false,
+      "webUrl": "https://orthosho.com/",
+      "appStoreUrl": "",
+      "playStoreUrl": "",
+      "categories": [
+        "speciality-specific"
+      ],
+      "subcategories": {
+        "speciality-specific": []
+      },
+      "createTime": "2025-11-13T10:34:27.795Z",
+      "updateTime": "2025-11-13T10:34:27.795Z"
+    },
+    {
+      "id": "my-duty",
+      "title": "MYDUTY",
+      "description": "MYDUTY is a scheduling app designed to simplify creating, managing, and sharing shift calendars.",
+      "appType": "mobileOnly",
+      "isEcosystem": false,
+      "webUrl": "",
+      "appStoreUrl": "https://apps.apple.com/us/app/myduty-nurse-calendar/id990247742",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=kr.fourwheels.myduty",
+      "categories": [
+        "rotas-and-pay"
+      ],
+      "subcategories": {
+        "rotas-and-pay": []
+      },
+      "createTime": "2025-11-13T10:36:54.226Z",
+      "updateTime": "2025-11-13T10:36:54.226Z"
+    },
+    {
+      "id": "genius-scan",
+      "title": "Genius Scan",
+      "description": "Genius Scan is a mobile document scanner app that lets users quickly capture, enhance, and export PDFs, offering smart scanning, OCR, and secure cloud syncing.",
+      "appType": "mobileOnly",
+      "isEcosystem": false,
+      "webUrl": "",
+      "appStoreUrl": "https://apps.apple.com/us/app/scanner-app-genius-scan/id377672876",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=kr.fourwheels.myduty",
+      "categories": [
+        "professional-and-portfolio"
+      ],
+      "subcategories": {
+        "professional-and-portfolio": []
+      },
+      "createTime": "2025-11-13T10:39:25.812Z",
+      "updateTime": "2025-11-13T10:39:25.812Z"
     }
   ]
 }
