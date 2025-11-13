@@ -580,7 +580,7 @@
     {
       "id": "patient-info",
       "title": "Patient.info",
-      "description": "Patient.info is a provides doctorÃ¢ÂÂapproved, regularly updated advice, tools, and resources to help the public make informed decisions about their health. It has a wide range of patient leaflets.",
+      "description": "Patient.info is a provides regularly updated advice, tools, and resources to help the public make informed decisions about their health. It has a wide range of patient leaflets.",
       "appType": "all",
       "isEcosystem": false,
       "webUrl": "https://patient.info/",
