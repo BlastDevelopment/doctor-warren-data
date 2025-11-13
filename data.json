@@ -562,7 +562,7 @@
     {
       "id": "zero-suicide-alliance",
       "title": "Zero Suicide Alliance",
-      "description": "A UK‑based charity dedicated to suicide prevention by providing free online training to empower individuals and organisations to recognise and support people at risk of suicide.",
+      "description": "A UKâbased charity dedicated to suicide prevention by providing free online training to empower individuals and organisations to recognise and support people at risk of suicide.",
       "appType": "webOnly",
       "isEcosystem": false,
       "webUrl": "https://www.zerosuicidealliance.com/",
@@ -580,7 +580,7 @@
     {
       "id": "patient-info",
       "title": "Patient.info",
-      "description": "Patient.info is a provides doctor‑approved, regularly updated advice, tools, and resources to help the public make informed decisions about their health. It has a wide range of patient leaflets.",
+      "description": "Patient.info is a provides doctorâapproved, regularly updated advice, tools, and resources to help the public make informed decisions about their health. It has a wide range of patient leaflets.",
       "appType": "all",
       "isEcosystem": false,
       "webUrl": "https://patient.info/",
@@ -626,6 +626,26 @@
       },
       "createTime": "2025-11-12T15:46:22.252Z",
       "updateTime": "2025-11-12T15:46:22.252Z"
+    },
+    {
+      "id": "ent-sho",
+      "title": "ENT SHO",
+      "description": "ENTSHO.com is an educational resource offering practical ENT guidance for doctors and health professionals, particularly those new to ENT or working in emergency and primary care.",
+      "appType": "webOnly",
+      "isEcosystem": false,
+      "webUrl": "https://entsho.com/",
+      "appStoreUrl": "",
+      "playStoreUrl": "",
+      "categories": [
+        "speciality-specific"
+      ],
+      "subcategories": {
+        "speciality-specific": [
+          "Ear, nose & throat"
+        ]
+      },
+      "createTime": "2025-11-13T10:30:17.179Z",
+      "updateTime": "2025-11-13T10:30:17.179Z"
     }
   ]
 }
