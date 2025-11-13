@@ -562,7 +562,7 @@
     {
       "id": "zero-suicide-alliance",
       "title": "Zero Suicide Alliance",
-      "description": "A UKÃ¢ÂÂbased charity dedicated to suicide prevention by providing free online training to empower individuals and organisations to recognise and support people at risk of suicide.",
+      "description": "A UKÃÂ¢ÃÂÃÂbased charity dedicated to suicide prevention by providing free online training to empower individuals and organisations to recognise and support people at risk of suicide.",
       "appType": "webOnly",
       "isEcosystem": false,
       "webUrl": "https://www.zerosuicidealliance.com/",
@@ -580,7 +580,7 @@
     {
       "id": "patient-info",
       "title": "Patient.info",
-      "description": "Patient.info is a provides regularly updated advice, tools, and resources to help the public make informed decisions about their health. It has a wide range of patient leaflets.",
+      "description": "Patient.info is a provides doctorÃÂ¢ÃÂÃÂapproved, regularly updated advice, tools, and resources to help the public make informed decisions about their health. It has a wide range of patient leaflets.",
       "appType": "all",
       "isEcosystem": false,
       "webUrl": "https://patient.info/",
@@ -660,7 +660,9 @@
         "speciality-specific"
       ],
       "subcategories": {
-        "speciality-specific": ["Trauma & orthopaedics"]
+        "speciality-specific": [
+          "Trauma & orthopaedics"
+        ]
       },
       "createTime": "2025-11-13T10:34:27.795Z",
       "updateTime": "2025-11-13T10:34:27.795Z"
@@ -700,6 +702,28 @@
       },
       "createTime": "2025-11-13T10:39:25.812Z",
       "updateTime": "2025-11-13T10:39:25.812Z"
+    },
+    {
+      "id": "brainscape",
+      "title": "Brainscape",
+      "description": "A study platform that helps learners create, find, and study flashcards using spaced repetition. It offers certified expert decks, collaboration tools, and features for educators and organisations to enhance long-term knowledge retention and track progress.",
+      "appType": "all",
+      "isEcosystem": false,
+      "webUrl": "https://www.brainscape.com/",
+      "appStoreUrl": "https://apps.apple.com/us/app/brainscape-smart-flashcards/id442415567",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.brainscape.mobile.portal&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
+      "categories": [
+        "medical-students",
+        "educational-resources"
+      ],
+      "subcategories": {
+        "medical-students": [],
+        "educational-resources": [
+          "Learning tools"
+        ]
+      },
+      "createTime": "2025-11-13T10:50:35.497Z",
+      "updateTime": "2025-11-13T10:50:35.497Z"
     }
   ]
 }
