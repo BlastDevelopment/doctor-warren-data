@@ -580,7 +580,7 @@
     {
       "id": "patient-info",
       "title": "Patient.info",
-      "description": "Patient.info is a provides doctorÃÂ¢ÃÂÃÂapproved, regularly updated advice, tools, and resources to help the public make informed decisions about their health. It has a wide range of patient leaflets.",
+      "description": "Patient.info is a provides doctorÃÂÃÂ¢ÃÂÃÂÃÂÃÂapproved, regularly updated advice, tools, and resources to help the public make informed decisions about their health. It has a wide range of patient leaflets.",
       "appType": "all",
       "isEcosystem": false,
       "webUrl": "https://patient.info/",
@@ -724,6 +724,24 @@
       },
       "createTime": "2025-11-13T10:50:35.497Z",
       "updateTime": "2025-11-13T10:50:35.497Z"
+    },
+    {
+      "id": "eye-chart-hd",
+      "title": "Eye Chart HD",
+      "description": "A vision-screening app that provides randomisable visual acuity charts, clinically evaluated against standard methods, for rapid approximate assessment.",
+      "appType": "mobileOnly",
+      "isEcosystem": false,
+      "webUrl": "",
+      "appStoreUrl": "https://apps.apple.com/us/app/eye-chart-hd/id382019572",
+      "playStoreUrl": "",
+      "categories": [
+        "clinical-aids"
+      ],
+      "subcategories": {
+        "clinical-aids": []
+      },
+      "createTime": "2025-12-12T09:17:38.648Z",
+      "updateTime": "2025-12-12T09:17:38.652Z"
     }
   ]
 }
